@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Armaan Grover",
+    "email": "Armaan@gmail.com",
+    "phone": "234567890",
+    "age": "56"
+  },
+  {
+    "name": "anushka",
+    "email": "anushka23@gmail.com",
+    "phone": "78888485269",
+    "age": "20"
+  },
+  {
+    "name": "Armaan Grover",
+    "email": "armaangrover567@gmail.com",
+    "phone": "7888485269",
+    "age": "20",
+    "gender": "male",
+    "address": "Dhamalpal Street",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "pincode": "151201",
+    "message": "somethingg"
+  },
+  {
+    "name": "Armaan Grover",
+    "email": "armaangrover124@gmail.com",
+    "phone": "7888485269",
+    "age": "18",
+    "gender": "male",
+    "address": "Dhamalpal Street",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "pincode": "151201",
+    "message": "write a message"
+  },
+  {
+    "name": "anushka",
+    "email": "anushka321@gmail.com",
+    "phone": "9041212431",
+    "age": "22",
+    "gender": "female",
+    "address": "Dhamalpal Street",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "pincode": "151201",
+    "message": "message"
+  },
+  {
+    "name": "Armaan Grover",
+    "email": "techislife59@gmail.com",
+    "phone": "7888485269",
+    "age": "20",
+    "gender": "male",
+    "address": "Dhamalpal Street",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "pincode": "151201",
+    "message": "data will be saved"
+  },
+  {
+    "name": "Armaan Grover",
+    "email": "armaangrover124@gmail.com",
+    "phone": "8221070650",
+    "age": "20",
+    "gender": "female",
+    "address": "Dhamalpal Street",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "pincode": "151201",
+    "message": "hello "
+  }
+]
